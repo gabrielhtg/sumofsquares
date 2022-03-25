@@ -2,6 +2,8 @@
 
 Ini adalah program yang dibuat dengan bahasa pemrograman LISP, yang berfungsi sebagai bahan pembelajaran dan untuk menghitung jumlah dari pangkat dua setiap elemen dari sebuah list of integer yang diberikan.
 
+Berikut link video pembuatannya: <button><a href="https://youtu.be/8fy5WdOQAGQ">Klik Disini </a></button>
+
 ## How to use?
 
 Berikut cara menggunakan program ini:
